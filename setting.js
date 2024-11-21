@@ -21,7 +21,7 @@ const Styles = (text, style = 1) => {
   return output.join('');
 };
 global.namaowner = "Vocado"
-global.owner = "6283137225821"
+global.owner = "2348120055226"
 global.namabot = "DV12"
 global.botname = "DV12"
 global.autoJoin = false
